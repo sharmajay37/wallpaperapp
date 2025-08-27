@@ -33,7 +33,7 @@ This app allows users to **browse, search, download, and set wallpapers** direct
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/wallpaper-app.git
+git clone https://github.com/sharmajay37/wallpaper-app.git
 cd wallpaper-app
 ```
 
